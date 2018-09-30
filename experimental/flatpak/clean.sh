@@ -1,7 +1,7 @@
 #! /bin/sh
 
 BUILD_DIR=$PWD/builddir
-JSON=com.gexperts.Tilix.json
+YAML=com.gexperts.Tilix.yaml
 REPO=$PWD/repo
 
 echo "Uninstalling Tilix..."
